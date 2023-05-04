@@ -7,3 +7,7 @@ Grupo interdata
 - Franco Bianchi
 - Silvina Prado
 - Francisco Chahla
+
+#scrum masters
+semana 1 - Ignacio buchter
+semana 2 -
