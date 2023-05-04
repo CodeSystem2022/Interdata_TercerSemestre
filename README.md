@@ -9,5 +9,5 @@ Grupo interdata
 - Francisco Chahla
 
 scrum masters
-semana 1 - Ignacio buchter
+semana 1 - Ignacio buchter,  
 semana 2 -
