@@ -8,6 +8,6 @@ Grupo interdata
 - Silvina Prado
 - Francisco Chahla
 
-#scrum masters
+scrum masters
 semana 1 - Ignacio buchter
 semana 2 -
