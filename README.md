@@ -19,7 +19,7 @@
 ### 📋Método Scrum Master
 |   Semana | Alumno a cargo |
 | --------- | -----:|
-| **Semana 1**  | Ignacio Butcher |
+| **Semana 1**  | Ignacio Buchter |
 | **Semana 2**  |    |
 | **Semana 3** |    |
 | **Semana 4**  |    |
