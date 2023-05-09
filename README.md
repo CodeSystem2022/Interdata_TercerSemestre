@@ -5,7 +5,7 @@
 ### Integrantes:
 :small_blue_diamond: Ignacio Buchter
 :small_blue_diamond: Daiana Figueroa
-:small_blue_diamond: Gabriel Echeve 
+:small_blue_diamond: Gabriel Echave 
 :small_blue_diamond: Franco Bianchi 
 :small_blue_diamond: Silvina Prado
 :small_blue_diamond: Francisco Chahla 
