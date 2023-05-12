@@ -20,7 +20,7 @@
 |   Semana | Alumno a cargo |
 | --------- | -----:|
 | **Semana 1**  | Ignacio Buchter |
-| **Semana 2**  |    |
+| **Semana 2**  | Franco Bianchi |
 | **Semana 3** |    |
 | **Semana 4**  |    |
 | **Semana 5**  |    |
