@@ -21,7 +21,7 @@
 | --------- | -----:|
 | **Semana 1**  | Ignacio Buchter |
 | **Semana 2**  | Franco Bianchi |
-| **Semana 3** |    |
+| **Semana 3** | Silvina Prado |
 | **Semana 4**  |    |
 | **Semana 5**  |    |
 | **Semana 6**  |    |
