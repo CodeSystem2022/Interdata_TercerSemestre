@@ -1,1 +1,10 @@
-Archivos JS 
+01-03-Funciones
+
+miFuncion(0, 2); // Esto se lo conoce como hosting
+
+function miFuncion(a, b){
+    console.log("Sumamos: "+ (a + b)); 
+}
+
+// Llamado a la función
+miFuncion(5, 4);
