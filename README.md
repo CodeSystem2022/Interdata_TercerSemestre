@@ -24,7 +24,7 @@
 | **Semana 3** | Silvina Prado |
 | **Semana 4**  | Daiana Figueroa |
 | **Semana 5**  | Francisco Chahla |
-| **Semana 6**  | Gabriel echave |
+| **Semana 6**  | Gabriel Echave |
 | **Semana 7**  |   |
 | **Semana 8**  |   |
 | **Semana 9**  |   |
