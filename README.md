@@ -23,5 +23,9 @@
 | **Semana 2**  | Franco Bianchi |
 | **Semana 3** | Silvina Prado |
 | **Semana 4**  | Daiana Figueroa |
-| **Semana 5**  | Francisco Chahla   |
-| **Semana 6**  |    |
+| **Semana 5**  | Francisco Chahla |
+| **Semana 6**  | Gabriel echave |
+| **Semana 7**  |   |
+| **Semana 8**  |   |
+| **Semana 9**  |   |
+| **Semana 10**  |   |
