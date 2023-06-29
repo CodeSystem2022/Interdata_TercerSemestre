@@ -26,6 +26,6 @@
 | **Semana 5**  | Francisco Chahla |
 | **Semana 6**  | Gabriel Echave |
 | **Semana 7**  | Gabriel Echave  |
-| **Semana 8**  |   |
-| **Semana 9**  |   |
-| **Semana 10**  |   |
+| **Semana 8**  | Francisco Chahla |
+| **Semana 9**  | Daiana Figueroa |
+| **Semana 10**  | Silvina Prado |
