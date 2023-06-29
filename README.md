@@ -25,7 +25,7 @@
 | **Semana 4**  | Daiana Figueroa |
 | **Semana 5**  | Francisco Chahla |
 | **Semana 6**  | Gabriel Echave |
-| **Semana 7**  |   |
+| **Semana 7**  | Gabriel Echave  |
 | **Semana 8**  |   |
 | **Semana 9**  |   |
 | **Semana 10**  |   |
