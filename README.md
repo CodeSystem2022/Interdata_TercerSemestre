@@ -29,3 +29,4 @@
 | **Semana 8**  | Francisco Chahla |
 | **Semana 9**  | Daiana Figueroa |
 | **Semana 10**  | Silvina Prado |
+| **Semana 11**  | Ignacio Buchter |
