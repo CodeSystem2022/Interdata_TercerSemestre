@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class ListadoPersonaApp {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        List<Persona> personas = new ArrayList<>();
+
+        var salir = false;
+        while (!salir){
+            mostrarMenu();
+            System.out.println();
+        }
+    }
+
+    private static void mostrarMenu() {
+        System.out.println("""
+                ***** Listado de Personas *****
+                1. Agregar
+                2. Listar
+                3. Salir
+                """);
+        System.out.print("Dijite una de las opciones: ");
+    }
+}
