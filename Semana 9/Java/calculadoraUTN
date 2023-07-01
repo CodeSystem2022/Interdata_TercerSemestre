@@ -1,0 +1,68 @@
+import java.util.Scanner;
+
+public class CalculadoraUTN {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("****** Aplicacion Calculadora ******");
+        while (true) {
+            mostrarMenu();
+            try {
+                int operacion = sc.nextInt();
+                if (operacion >= 1 && operacion <= 4){
+
+                    ejecutarOperacion(operacion, sc);
+
+                } else if (operacion == 5) {
+                    System.out.println("Hasta pronto...");
+                    break;
+                }
+                else {
+                    System.out.println(operacion+ " --> opcion invalida");
+                }
+                System.out.println();
+            } catch (Exception e) {
+                System.out.println("Error --> " +e.getMessage());
+                sc.next();
+            }
+        }
+    }
+
+    private static void mostrarMenu(){
+        System.out.println("""
+                1. Suma
+                2. Resta
+                3. Multiplicacion
+                4. Division
+                5. Salir
+                """);
+        System.out.println("Operacion a realizar: ");
+    }
+
+    private static void ejecutarOperacion(int operacion, Scanner sc) {
+        System.out.println("Dijite valor de operando1: ");
+        var operando1 = sc.nextInt();
+        System.out.println("Dijite valor de operando2: ");
+        var operando2 = sc.nextInt();
+
+        double resultado;
+        switch (operacion){
+            case 1 -> {
+                resultado = operando1 + operando2;
+                System.out.println("Resultado de la suma --> "+ resultado);
+            }
+            case 2 -> {
+                resultado = operando1 - operando2;
+                System.out.println("Resultado de la resta --> "+ resultado);
+            }
+            case 3 -> {
+                resultado = operando1 * operando2;
+                System.out.println("Resultado de la multiplicacion --> "+ resultado);
+            }
+            case 4 -> {
+                resultado = operando1 / operando2;
+                System.out.println("Resultado de la division --> "+ resultado);
+            }
+            default -> System.out.println(operacion+ " --> opcion no valida");
+        }
+    }
+}
